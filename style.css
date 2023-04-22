@@ -1,0 +1,38 @@
+body{
+    background-size: cover;
+}
+
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+
+#start,#number_of_objects{
+font-size: 20px;
+background-color: aquamarine;
+}
+
+
+.copyright-footer{
+font-family: 'Sedgwick Ave Display', cursive;
+font-size: 30px;
+color: wheat;
+background-color: crimson;
+bottom: 0;
+position: fixed;
+width: 100%;
+line-height: 2;
+text-align: center;
+}
+
+
+canvas{
+    border: 2px solid white; 
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+    margin-bottom: 500px;
+}
